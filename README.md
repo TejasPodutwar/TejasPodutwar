@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Tejas Podutwar
 
 <!-- - 🔭 I’m currently working on ... -->
+<!-- - 💬 Ask me about ... -->
 - 🌱 I'm current learning Data Structures and Algorithms.
 - 👯 I'm looking to collaborate on MERN projects.
 - 🤔 I'm looking for help with Machine Learning.
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: tejaskumar8501@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Marvel Fan
@@ -38,4 +38,3 @@
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TejasPodutwar&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TejasPodutwar&theme=react&hide_border=false)<br/>
